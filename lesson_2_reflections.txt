@@ -15,3 +15,7 @@ When I want to experiment branches would be helpful by keeping my working code c
 
 How do the diagrams help you visualize the branch structure?
 I can clearly see what commits are accessible from what branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together combines the code from both branches into one.
+It's represented in that way in the diagram because we can now reach all commits of both branches from the one.
