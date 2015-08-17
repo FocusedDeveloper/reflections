@@ -19,3 +19,7 @@ I can clearly see what commits are accessible from what branch.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging two branches together combines the code from both branches into one.
 It's represented in that way in the diagram because we can now reach all commits of both branches from the one.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros faster and highlights any conflicts automatically making it easier to resolve.
+Cons, you may over look something.  or not understand exactly how the merge works
